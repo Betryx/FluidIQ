@@ -123,7 +123,8 @@ Peace out.
 
 
 ## Updates
-There will be an update soon that provides a prompt for any big language model as well as context in the form of information about the test, its stages, grading criteria and all remaining components that would automate the process of evaluating results for any psychology, psychometry enthusiasts, hobbyists and generaly people interested in taking it.
+There will be an update soon that provides a prompt for any big language model as well as context in the form of information about the test, its stages, grading criteria and all remaining components that would automate the process of evaluating results for any psychology, psychometry enthusiasts, hobbyists and generaly people interested in taking it as well as generating the problems that would have to be solved in the context of the test.
+If you are confident enough, you can try comming up with problems on your own.
 Also the ticket templates for both the test taker and the analyst 😎
 
 
