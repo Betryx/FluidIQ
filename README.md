@@ -74,18 +74,26 @@ The formula used to calculate the score will adjust based on the age group, ensu
 Before administering the test, ensure that the test-taker is familiar with the problem-solving structure and the expectations. Provide a brief overview of the test stages and the types of problems they will encounter.
 
 ### 2. **Test Administration**
-The test should be presented in the form of a **ticket** that includes:
+The test should be presented in the form of a **ticket** template present in **Ticket.odt** that includes:
 - The problem scenario.
 - Key background information (history, clues, data).
 - Direct and indirect hints for the analyst.
-- Instructions for solving the problem and filling the gaps.
+- Instructions for solving the problem and filling the gaps for the analyst.
+
 
 For the **analyst**:
-- You will be given a separate guide that provides the answers, gaps, solutions, and an outline of the expected cognitive processes.
-- The guide will assist you in analyzing the test-taker’s reasoning, pattern detection, and overall cognitive approach.
+- The analyst recieves a type 2 ticket 
+- Your ticket contains a separate guide that provides the answers, gaps, solutions, and an outline of the expected cognitive processes.
+- The ticket will assist you in analyzing the test-taker’s reasoning, pattern detection, and overall cognitive approach but should not be used as a comparative grading tool or it would compromise the tests results and overall integrity.
+- You must generate a problem by using the prompt provided in the **Prompt_for_problems.odt** file
+- The prompt contains all necessary information in terms of context about the test and problem 
+- structure as it is intended to not allow flaws that could compromise the outcome of the test.
+- **WARNING**: Make sure to look at the problem before presenting it as theres a possibility of missing parts.
+- If that would be the case, you can look at the **FluidIQ.odt** file and modify the prompt accordingly in order to achieve a proper problem.
 
 For the **test-taker**:
-- The problem scenario and data are given to you without answers or solutions.
+- The **test-taker** recieves a type 1 ticket
+- Your ticket contains the problem scenario and the data  without answers or solutions.
 - Your task is to fill the gaps, identify patterns, and synthesize the information to find a cohesive solution.
 
 ### 3. **Grading and Evaluation**
@@ -123,9 +131,9 @@ Peace out.
 
 
 ## Updates
-There will be an update soon that provides a prompt for any big language model as well as context in the form of information about the test, its stages, grading criteria and all remaining components that would automate the process of evaluating results for any psychology, psychometry enthusiasts, hobbyists and generaly people interested in taking it as well as generating the problems that would have to be solved in the context of the test.
-If you are confident enough, you can try comming up with problems on your own.
-Also the ticket templates for both the test taker and the analyst 😎
+Prompt uploaded ✅
+If you feel confident enough, you can try comming up with problems on your own.
+Ticket templates uploaded ✅ 
 
 
 
